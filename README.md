@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Google Summer of Code logo" src="src/gsoc-logo.jpg" style="width: 75%;">
+<img alt="Google Summer of Code logo" src="src/gsoc-logo.jpg">
 <img alt="Joomla! logo" src="src/joomla-logo.png">
 </div>
 
@@ -22,43 +22,43 @@ All the cookies will get blocked on the user's first visit and only activated af
 ### Admin Part
 #### Add Cookies
 Here, website administrator can add cookies according to their categories to display it to the users.
-<div align="center">
-<img alt="Add Cookies" src="src/cookies.JPG" style="width: 75%; border: solid 1px;">
+<div>
+<img alt="Add Cookies" src="src/cookies.JPG">
 </div>
 
 #### Add Categories
 Here, website administrator can add categories to categorize the cookies and scripts.
-<div align="center">
-<img alt="Add Categories" src="src/categories.JPG" style="width: 75%; border: solid 1px;">
+<div>
+<img alt="Add Categories" src="src/categories.JPG">
 </div>
 
 #### Add Scripts
 Here, website administrator can add cookie setting scripts to block/unblock according to the user's consent.
-<div align="center">
-<img alt="Add Scripts" src="src/scripts.JPG" style="width: 75%; border: solid 1px;">
+<div>
+<img alt="Add Scripts" src="src/scripts.JPG">
 </div>
 
 #### View Consents
 Here, website administrator can view the consents given by the users.
-<div align="center">
-<img alt="View Consents" src="src/consents.JPG" style="width: 75%; border: solid 1px;">
+<div>
+<img alt="View Consents" src="src/consents.JPG">
 </div>
 
 #### Change Configuration
 Here, website administrator can change the component configuration.
-<div align="center">
-<img alt="Change Configuration" src="src/config.JPG" style="width: 75%; border: solid 1px;">
+<div>
+<img alt="Change Configuration" src="src/config.JPG">
 </div>
 
 ### Site Part
 #### Cookie Consent Banner
 This is the banner which is displayed to the users on their first visit.
-<div align="center">
-<img alt="Cookie Consent Banner" src="src/consent-banner.jpg" style="width: 75%; border: solid 1px;">
+<div>
+<img alt="Cookie Consent Banner" src="src/consent-banner.jpg">
 </div>
 
 #### Cookie Settings Banner
 This is the banner which is displayed to the users when they click on `More details` button.
-<div align="center">
-<img alt="Cookie Settings Banner" src="src/settings-banner.jpg" style="width: 75%; border: solid 1px;">
+<div>
+<img alt="Cookie Settings Banner" src="src/settings-banner.jpg">
 </div>
