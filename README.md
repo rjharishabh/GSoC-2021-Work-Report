@@ -54,11 +54,11 @@ Here, website administrator can change the component configuration.
 #### Cookie Consent Banner
 This is the banner which is displayed to the users on their first visit.
 <div align="center">
-<img alt="Cookie Consent Banner" src="src/consent-banner.JPG" style="width: 75%; border: solid 1px;">
+<img alt="Cookie Consent Banner" src="src/consent-banner.jpg" style="width: 75%; border: solid 1px;">
 </div>
 
 #### Cookie Settings Banner
 This is the banner which is displayed to the users when they click on `More details` button.
 <div align="center">
-<img alt="Cookie Settings Banner" src="src/settings-banner.JPG" style="width: 75%; border: solid 1px;">
+<img alt="Cookie Settings Banner" src="src/settings-banner.jpg" style="width: 75%; border: solid 1px;">
 </div>
