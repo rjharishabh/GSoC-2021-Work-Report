@@ -15,7 +15,7 @@
 **Joomla CMS Repository:** https://github.com/joomla/joomla-cms
 
 ### Overview
-We have build a cookie manager using a component and a plugin to manage browser cookies as required by GDPR and other privacy regulations.
+We have built a cookie manager using a component and a plugin to manage browser cookies as required by GDPR and other privacy regulations.
 <br>
 In the cookie manager, Admin can add scripts and cookies according to their category.
 <br>
